@@ -4,4 +4,4 @@
 
 | Название проекта | Навыки и инструменты | Задача исследования | Стек и ключевые методы проекта |
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-| [Музыка больших городов](https://github.com/Menduone/yandex_practicum_projects_DS/tree/main/big_city_music) | <li>`Python`<li>`pandas` | пкпк | <li>логическая индексация; <li>дубликаты; <li>пропуски; <li>предобработка |
+| [Музыка больших городов](https://github.com/Menduone/yandex_practicum_projects_DS/tree/main/big_city_music) | <li>`Python`<li>`pandas` | пкпк | <li>логическая индексация; <li>дубликаты; <li>пропуски|
